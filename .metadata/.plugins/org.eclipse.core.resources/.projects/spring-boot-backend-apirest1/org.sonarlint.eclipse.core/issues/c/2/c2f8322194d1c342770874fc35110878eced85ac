@@ -1,0 +1,11 @@
+
+~
+java:S46842"@Replace this persistent entity with a simple POJO or DTO object.(÷Ö¡çûÿÿÿÿ8ÊÒ­´/HóRCRITICALZVULNERABILITY
+y
+java:S4684,"@Replace this persistent entity with a simple POJO or DTO object.(ø‚–ù8ÅØ‚­´/HôRCRITICALZVULNERABILITY
+‰
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.RequestParam'.(Â¬À·ùÿÿÿÿ8½­´/HõRMINORZ
+CODE_SMELL
+u
+java:S1128"=Remove this unused import 'javax.websocket.server.PathParam'.(ÊÊş†ûÿÿÿÿ8Ò‹ş¬´/HöRMINORZ
+CODE_SMELL

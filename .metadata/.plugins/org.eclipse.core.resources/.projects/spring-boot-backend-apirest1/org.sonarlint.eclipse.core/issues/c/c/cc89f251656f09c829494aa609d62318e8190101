@@ -1,0 +1,28 @@
+
+s
+java:S1854-"@Remove this useless assignment to local variable "responseCode".(Şà–»8ûƒµ/H÷RMAJORZ
+CODE_SMELL
+i
+java:S1135/"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8ä˜ƒµ/HøRINFOZ
+CODE_SMELL
+i
+java:S1481*"1Remove this unused "responseCode" local variable.(ìèé±ıÿÿÿÿ8ûƒµ/HùRMINORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(âÊÕ‡ÿÿÿÿÿ8¨¯Ïƒµ/HúRMAJORZ
+CODE_SMELL
+i
+java:S1135&"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8ûƒµ/HûRINFOZ
+CODE_SMELL
+n
+java:S2259$"BA "NullPointerException" could be thrown; "conn" is nullable here.(®•²¹8ûƒµ/HüRMAJORZBUG
+i
+java:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8ûƒµ/HRINFOZ
+CODE_SMELL
+m
+java:S2259"AA "NullPointerException" could be thrown; "url" is nullable here.(Š”·8ä˜ƒµ/H‚RMAJORZBUG
+^
+java:S1068"+Remove this unused "API_KEY" private field.(ä¬ÕÕ8ó²¼ƒµ/H†RMAJORZ
+CODE_SMELL
+i
+java:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8ä˜ƒµ/H‡RINFOZ
+CODE_SMELL

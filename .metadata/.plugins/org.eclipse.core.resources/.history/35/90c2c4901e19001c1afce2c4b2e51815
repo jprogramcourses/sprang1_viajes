@@ -1,0 +1,9 @@
+package com.juan.springangular.models.entity;
+
+import java.io.Serializable;
+
+public class Alojamiento implements Serializable {
+
+	
+	
+}

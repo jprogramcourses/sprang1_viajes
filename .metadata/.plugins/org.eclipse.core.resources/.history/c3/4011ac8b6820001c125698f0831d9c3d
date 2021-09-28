@@ -1,0 +1,13 @@
+package com.juan.springangular.models.entity;
+
+import java.io.Serializable;
+
+public class ComunidadAutonoma implements Serializable {
+	
+	private static final long serialVersionUID = 1L;
+	
+	private Long idComunidad;
+	private String nombre;
+	
+
+}

@@ -1,0 +1,33 @@
+package com.juan.springangular.models.entity;
+
+import java.io.Serializable;
+import java.util.Date;
+
+import javax.persistence.Column;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Temporal;
+import javax.persistence.TemporalType;
+
+public class Alojamiento implements Serializable {
+	
+	private static final long serialVersionUID = 1L;
+	
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private long idAlojamiento;
+	private String nombre;
+	private String descripcion;
+	private double latAlojamiento;
+	private double lngAlojamiento;
+	private CalidadAlojamiento calidad;
+	
+	@Column(name = "create_at")
+	@Temporal(TemporalType.DATE)
+	private Date createAt;
+	
+	
+	
+	
+}

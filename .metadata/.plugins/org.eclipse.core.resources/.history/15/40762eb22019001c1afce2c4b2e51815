@@ -1,0 +1,17 @@
+package com.juan.springangular.models.entity;
+
+import java.io.Serializable;
+
+public class Alojamiento implements Serializable {
+	
+	
+	private static final long serialVersionUID = 1L;
+	private long idAlojamiento;
+	private String nombre;
+	private String descripcion;
+	private double latAlojamiento;
+	private double lngAlojamiento;
+	private CalidadAlojamiento calidad;
+	
+	
+}
